@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-29T00:47:49 IST" name="Default suite" finished-at="2025-06-29T00:48:05 IST" duration-ms="16757">
+    <groups>
+    </groups>
+    <test started-at="2025-06-29T00:47:49 IST" name="Default test" finished-at="2025-06-29T00:48:05 IST" duration-ms="16757">
+      <class name="framework.mytestcaesforpractise.SearchforIndigoFlights">
+        <test-method is-config="true" signature="browserActions()[pri:0, instance:framework.mytestcaesforpractise.SearchforIndigoFlights@5d0bf09b]" started-at="2025-06-29T00:47:49 IST" name="browserActions" finished-at="2025-06-29T00:47:54 IST" duration-ms="5181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserActions -->
+        <test-method signature="selectIndioFlightsusingPOM()[pri:0, instance:framework.mytestcaesforpractise.SearchforIndigoFlights@5d0bf09b]" started-at="2025-06-29T00:47:54 IST" name="selectIndioFlightsusingPOM" finished-at="2025-06-29T00:48:05 IST" duration-ms="11517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectIndioFlightsusingPOM -->
+      </class> <!-- framework.mytestcaesforpractise.SearchforIndigoFlights -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
